@@ -28,16 +28,16 @@ The primary goal of this repository is to offer diverse solutions to LeetCode pr
 
 The repository is organized in a straightforward manner to facilitate easy navigation and access:
 
-Leetcode-Problems/
-│
-├── Problem-001/
-│ ├── solution.py
-│ ├── Problem-001.md
-│
-├── Problem-002/
-│ ├── solution.py
-│ ├── Problem-002.md
-│
+Leetcode-Problems/\
+│\
+├── Problem-001/\
+│   ├── solution.py\
+│   ├── Problem-001.md\
+│\
+├── Problem-002/\
+│   ├── solution.py\
+│   ├── Problem-002.md\
+│\
 └── README.md
 
 

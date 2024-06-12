@@ -49,7 +49,7 @@ Leetcode-Problems/\
 
 1. **Cloning the Repository**
    ```sh
-   git clone https://github.com/jaymittal/Leetcode-Problems.git
+   git clone https://github.com/CNJAY1911/Leetcode-Problems.git
    cd Leetcode-Problems
 2. Navigating to a Problem Directory
    ```sh

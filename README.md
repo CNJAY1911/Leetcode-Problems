@@ -3,7 +3,8 @@
 Welcome to the Leetcode-Problems repository! This repository contains a comprehensive collection of problems from LeetCode, each accompanied by a Python solution. Each solution is documented with its runtime, memory consumption, and a detailed explanation of the approach used.
 
 ## Author
-**Jay Mittal**
+**Jay Mittal**: [Leetcode Profile](https://leetcode.com/u/Ym8J4G5TWW/)
+
 
 ## Repository Overview
 
